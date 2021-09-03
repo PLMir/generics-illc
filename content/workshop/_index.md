@@ -31,7 +31,7 @@ Please join us for an online workshop on Generics and Stereotypes in Language ho
 ### Friday, September 17,  2021
 
 - 14h30 - 15h30 - Andrei Cimpian: *The Cognitive Structure of Stereotypes: Implications for Stereotype Accuracy.*
-- 15h30 - 16h30 - Maribel Romeiro: *TBA*
+- 15h30 - 16h30 - Maribel Romero: *TBA*
 - 16h30 - 17h30 - Patricia Mirabile, Robert van Rooij \& Katrin Schulz: *Learning generics statements: The role of distinctiveness and impact.*
 - 17h30 - 18h30 - MH Tessler: *The Language of Category Generalizations: Probability, Vagueness, and Prior Expectations.*
 
