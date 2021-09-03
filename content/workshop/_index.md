@@ -17,7 +17,8 @@ Please join us for an online workshop on Generics and Stereotypes in Language ho
 
 # Program
 
-### Wednesday, September 15, 2021
+### Wednesday, September 15, 2021 
+
 
 - 13h45 - 14h45 - Kenny Smith \& Douglas Martin: *The cultural evolution of language and stereotypes.*
 - 14h45 - 15h15 - Rochelle Choenni: *Stephmothers are mean and academics are pretentious: What do pretrained language models learn about you?*
@@ -25,12 +26,16 @@ Please join us for an online workshop on Generics and Stereotypes in Language ho
 - 15h45 - 16h00 - *Break*
 - 16h00 - 17h00 - Su Lin Blodgett: *TBA*
 
+[Add event to your calendar.](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWFlZmE3NHBuczd0Z2liN2FkNHI1NjJkdGogbWlyYWJpbGUucGF0cmljaWFAbQ&tmsrc=mirabile.patricia%40gmail.com)
+
 ### Friday, September 17,  2021
 
 - 14h30 - 15h30 - Andrei Cimpian: *The Cognitive Structure of Stereotypes: Implications for Stereotype Accuracy.*
 - 15h30 - 16h30 - Maribel Romeiro: *TBA*
 - 16h30 - 17h30 - Patricia Mirabile, Robert van Rooij \& Katrin Schulz: *Learning generics statements: The role of distinctiveness and impact.*
 - 17h30 - 18h30 - MH Tessler: *The Language of Category Generalizations: Probability, Vagueness, and Prior Expectations.*
+
+[Add event to your calendar.](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBpbmgxYWdybzUzMDYxcmE0aGc0Y2Voc2cgbWlyYWJpbGUucGF0cmljaWFAbQ&tmsrc=mirabile.patricia%40gmail.com)
 
 
 Note: All times are indicated in CEST (Amsterdam time).  
