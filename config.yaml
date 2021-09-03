@@ -59,6 +59,10 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+  renderer:
+    unsafe: true
+
 related:
   threshold: 80
   includeNewer: true
@@ -69,7 +73,5 @@ related:
     - name: categories
       weight: 70
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+
+
