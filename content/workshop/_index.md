@@ -21,7 +21,7 @@ Please join us for an online workshop on Generics and Stereotypes in Language ho
 
 
 - 13h45 - 14h45 - Kenny Smith \& Douglas Martin: *The cultural evolution of language and stereotypes.*
-- 14h45 - 15h15 - Rochelle Choenni: *Stepmothers are mean and academics are pretentious: What do pretrained language models learn about you?*
+- 14h45 - 15h15 - Rochelle Choenni: *What do pretrained language models learn about you?*
 - 15h15 - 15h45 - Oskar van der Wal: *Bias in NLP: a technical approach to a social problem.*
 - 15h45 - 16h00 - *Break*
 - 16h00 - 17h00 - Su Lin Blodgett: *TBA*
