@@ -31,7 +31,7 @@ Please join us for an online workshop on Generics and Stereotypes in Language ho
 ### Friday, September 17,  2021
 
 - 14h30 - 15h30 - Andrei Cimpian: *The Cognitive Structure of Stereotypes: Implications for Stereotype Accuracy.*
-- 15h30 - 16h30 - Maribel Romero: *TBA*
+- 15h30 - 16h30 - Maribel Romero: *Some notes comparing "many", "often" and GEN.*
 - 16h30 - 16h45 - *Break*
 - 16h45 - 17h30 - Patricia Mirabile, Robert van Rooij \& Katrin Schulz: *Learning generics statements: The role of distinctiveness and impact.*
 - 17h30 - 18h30 - MH Tessler: *The Language of Category Generalizations: Probability, Vagueness, and Prior Expectations.*
@@ -47,6 +47,6 @@ For questions about the workshop, please contact: p.l.mirabile (at) uva.nl
 
 ---  
 
-We are grateful to the NWO for funding this workshop via the project “From Learning to Meaning: A new approach to Characterizing Sentences and Stereotypes” (406.18.TW.007)
+We are grateful to the NWO for funding this workshop via the project “From Learning to Meaning: A new approach to Characterizing Sentences and Stereotypes” (406.18.TW.007) and the project "The biased reality of online media - Using stereotypes to make media manipulation visible". 
 
 
