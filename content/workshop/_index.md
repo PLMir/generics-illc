@@ -47,6 +47,6 @@ For questions about the workshop, please contact: p.l.mirabile (at) uva.nl
 
 ---  
 
-We are grateful to the NWO for funding this workshop via the project “From Learning to Meaning: A new approach to Characterizing Sentences and Stereotypes” (406.18.TW.007) and the project "The biased reality of online media - Using stereotypes to make media manipulation visible". 
+We are grateful to the NWO for funding this workshop via the project “From Learning to Meaning: A new approach to Characterizing Sentences and Stereotypes” (406.18.TW.007) and the project "The biased reality of online media - Using stereotypes to make media manipulation visible” (406.DI.19.059). 
 
 
