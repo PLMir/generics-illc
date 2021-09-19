@@ -7,9 +7,8 @@ type: page
 view: 2
 ---
 
-Please join us for an online workshop on Generics and Stereotypes in Language hosted by the [ILLC](https://www.illc.uva.nl/), University of Amsterdam, on September 15 and 17, 2021. 
+An online workshop on Generics and Stereotypes in Language hosted by the [ILLC](https://www.illc.uva.nl/), University of Amsterdam was held on September 15 and 17, 2021. 
 
-**Zoom link:** https://uva-live.zoom.us/j/85388243243
 
 
 <br />  
@@ -40,7 +39,7 @@ Please join us for an online workshop on Generics and Stereotypes in Language ho
 
 
 Note: All times are indicated in CEST (Amsterdam time).  
-For questions about the workshop, please contact: p.l.mirabile (at) uva.nl
+For questions about the workshop or to request a download link to the recorded talks, please contact: p.l.mirabile (at) uva.nl
 
 <br />  
 <br />  
